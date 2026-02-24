@@ -52,7 +52,29 @@ We use this categorical data encoding technique when the features are nominal(do
 
 <img width="1821" height="790" alt="Screenshot 2026-02-19 161406" src="https://github.com/user-attachments/assets/e6570602-2b78-40f0-97f2-2435429c9134" />
 
-# RESULT:
-       # INCLUDE YOUR RESULT HERE
+<img width="1597" height="768" alt="Screenshot 2026-02-24 105426" src="https://github.com/user-attachments/assets/7dfb9290-aa96-423a-8e66-55dc07f5101d" />
 
+<img width="1759" height="777" alt="Screenshot 2026-02-24 105437" src="https://github.com/user-attachments/assets/c5aa6230-dd6c-47c8-be67-deb4bfb9e4d8" />
+
+
+<img width="1831" height="505" alt="Screenshot 2026-02-24 105509" src="https://github.com/user-attachments/assets/163c12de-088a-489b-83a7-878417e9918b" />
+
+<img width="1825" height="503" alt="Screenshot 2026-02-24 105517" src="https://github.com/user-attachments/assets/84a7b1ed-b96a-4a2f-be57-824b11ddf2b8" />
+
+<img width="1818" height="626" alt="Screenshot 2026-02-24 105527" src="https://github.com/user-attachments/assets/02157adc-5c8e-4ed5-b5f2-f7d4ad42c8e3" />
+
+<img width="1825" height="728" alt="Screenshot 2026-02-24 105536" src="https://github.com/user-attachments/assets/51aea5c8-b129-4786-aae3-1258dcc63b82" />
+
+<img width="1782" height="801" alt="Screenshot 2026-02-24 105546" src="https://github.com/user-attachments/assets/6246f2f3-0212-4d29-85bc-4a5be6f15ebe" />
+
+<img width="699" height="527" alt="Screenshot 2026-02-24 105600" src="https://github.com/user-attachments/assets/cb61b4d0-d6ee-463e-9d19-250cf4c9204f" />
+
+<img width="717" height="519" alt="Screenshot 2026-02-24 105611" src="https://github.com/user-attachments/assets/89d46f70-0e8e-4df0-9274-7818f46730ab" />
+
+<img width="743" height="675" alt="Screenshot 2026-02-24 105618" src="https://github.com/user-attachments/assets/e122d0bf-55bc-4205-b3f9-3b63e20dc3cc" />
+
+<img width="652" height="949" alt="Screenshot 2026-02-24 105717" src="https://github.com/user-attachments/assets/d299882b-b031-48a6-be53-2289d234bd5f" />
+
+# RESULT:
+Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
        
